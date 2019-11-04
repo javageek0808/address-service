@@ -11,6 +11,7 @@ CREATE DATABASE address_demo;
 Lombok library is used to avoid writing repetitive code
 
 mvn install
+
 mvn spring-boot:run
 
 Rest endpoints is exposed to test the example
